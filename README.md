@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Atakan Tuncer, Software / Data Engineer
+- 👋 I’m Atakan Tuncer | Senior Software & Data Engineer
 - 👀 I’m interested in Software Development and Data Science. 
-- 💞️ My main programming language is Python
-- 🌱 I’m currently learning Golang
+- 💞️ Python & SQL & Golang
+- 🌱 Custom LLMs & AI Agents
 
 - 📫 Send me an email to atakan.tuncer@gmail.com 
 
