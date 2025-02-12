@@ -1,7 +1,7 @@
-- 👋 I’m Atakan Tuncer | Senior Software & Data Engineer
-- 👀 I’m interested in Software Development and Data Science. 
-- 💞️ Python & SQL & Golang
-- 🌱 Custom LLMs & AI Agents
+- 👋 I’m Atakan Tuncer | Senior Software & Data Engineer & AI Agent Developer
+- 👀 Working on big data, AI agents, advanced automations. 
+- 💞️ Python & SQL & Golang & Next JS
+- 🌱 Custom LLMs & Deep Learning & Fine Tuning
 
 - 📫 Send me an email to atakan.tuncer@gmail.com 
 
